@@ -23,4 +23,3 @@
 <p>Se você tiver sugestões ou melhorias para qualquer um dos meus projetos, fique à vontade para abrir uma issue ou enviar um pull request. Estou sempre aberto a colaborações e aprendizado conjunto!</p>
 
 <p>Obrigado por visitar meu perfil! 😊</p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicentecarvalho-3600&layout=compact&theme=dracula)
