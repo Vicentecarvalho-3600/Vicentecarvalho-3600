@@ -18,23 +18,17 @@
 <br>
 <h2>GitHub Stats</h2>
 
-<div>
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=Vicentecarvalho-3600&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" 
-    width="400" 
-    height="200" 
-    alt="Vicente Carvalho's GitHub Stats" 
-    style="display: inline"
-/>
-    
-<img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vicentecarvalho-3600&layout=compact&bg_color=013&border_color=30A3DC&title_color=E94D5F&text_color=FFF" 
-    width="400" 
-    height="200" 
-    alt="Vicente Carvalho" 
-    style="display: inline"
-/>
-</div>
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Vicentecarvalho-3600&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vicentecarvalho-3600&layout=compact&bg_color=013&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 <h2>Contato</h2>
 <p>LinkedIn: <b>https://www.linkedin.com/in/vicente-francisco-de-carvalho-neto-6172b6203</b></p>
 <p>Email: <b>vicentecarvalho.cooknet@gmail.com</b></p>
