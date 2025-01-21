@@ -16,14 +16,11 @@
     <li>Banco de Dados: Postgres, Firebird, MySQL</li>
 </ul>
 <br>
-<div align="center">
-  <img 
-  src="https://github-readme-stats.vercel.app/api?username=Vicentecarvalho-3600&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
-  height="150" 
-  alt="Vicente Carvalho's GitHub Stats" 
-/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vicentecarvalho-3600&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vicentecarvalho-3600&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vicentecarvalho-3600i&layout=compact&bg_color=013&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 <h2>Contato</h2>
 <p>LinkedIn: <b>https://www.linkedin.com/in/vicente-francisco-de-carvalho-neto-6172b6203</b></p>
