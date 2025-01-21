@@ -15,6 +15,10 @@
     <li>Backend: Node.js, C# .NET</li>
     <li>Banco de Dados: Postgres, Firebird, MySQL</li>
 </ul>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vicentecarvalho-3600&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vicentecarvalho-3600&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <h2>Contato</h2>
 <p>LinkedIn: <b>https://www.linkedin.com/in/vicente-francisco-de-carvalho-neto-6172b6203</b></p>
