@@ -26,10 +26,10 @@
 />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=Vicentecarvalho-3600&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vicentecarvalho-3600&layout=compact&bg_color=013&border_color=30A3DC&title_color=E94D5F&text_color=FFF" 
   width="400" 
   height="200" 
-  alt="Vicente Carvalho's GitHub Stats" 
+  alt="Vicente Carvalho" 
 />
 
 <h2>Contato</h2>
