@@ -16,10 +16,10 @@
     <li>Banco de Dados: Postgres, Firebird, MySQL</li>
 </ul>
 <br>
-## GitHub Stats
+<h2>GitHub Stats</h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vicentecarvalho-3600&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vicentecarvalho-3600i&layout=compact&bg_color=013&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vicentecarvalho-3600&layout=compact&bg_color=013&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 <h2>Contato</h2>
